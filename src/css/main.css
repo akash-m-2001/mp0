@@ -23,7 +23,7 @@ main {
 main img {
     width: 150px;
     height: 150px;
-    border: 4px solid #000000;
+    border: none;
     object-fit: cover;
 }
 
